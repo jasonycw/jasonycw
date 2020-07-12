@@ -4,11 +4,11 @@
 ⬜️⬛️⬜️⬛️⬜️⬜️⬛️⬜️<br/>
 ⬜️⬛️⬜️⬛️⬜️⬜️⬛️⬜️<br/>
 ⬜️⬛️⬜️⬛️⬛️⬛️⬛️⬜️<br/>
-⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️<br/>](https://jasonycw.github.io/secret/stuff.html)
+⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️<br/>](https://jasonycw.github.io/secret/)
 
 Use: 
 [![Google](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fgoogle.com)](https://www.google.com/)
-[![Microsoft](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fmicrosoft.com)](https://www.microsoft.com/)
+[![Microsoft](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fmicrosoft.com)](https://www.microsoft.com/windows/)
 [![Android](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fandroid.com)](https://www.android.com/)
 <br/>
 Read:
@@ -63,21 +63,21 @@ Work:
 PC:
 [![Intel](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fintel.com)](https://www.intel.com/)
 [![Nvidia](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fnvidia.com)](https://www.nvidia.com/)
-[![Fractal Design](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Ffractal-design.com)](https://www.fractal-design.com/)
 [![Noctua](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fnoctua.at)](https://noctua.at/)
+[![Fractal Design](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Ffractal-design.com)](https://www.fractal-design.com/)
 [![ASUS](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fwww.asus.com)](https://www.asus.com/ROG-Republic-Of-Gamers/)
 [![Corsair](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fcorsair.com)](https://www.corsair.com/)
 [![Samsung](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fsamsung.com)](https://www.samsung.com/ssd/)
-[![Kingston](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fkingston.com)](https://www.kingston.com/ssd)
 [![WD](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fwww.westerndigital.com)](https://www.westerndigital.com/products/internal-drives)
-[![Dell](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fdell.com)](https://www.dell.com/)
+[![Kingston](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fkingston.com)](https://www.kingston.com/ssd)
 <br/>
 Accessories:
-[![Audio-Technica](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Faudio-technica.com)](https://www.audio-technica.com/)
-[![LG](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Flg.com)](https://www.lg.com/tv)
 [![LogitechG](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fwww.logitechg.com)](https://www.logitechg.com/products/gaming-mice.html)
 [![Ducky](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fduckychannel.com.tw)](https://www.duckychannel.com.tw/)
 [![Zowie](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fzowie.benq.com)](https://zowie.benq.com/)
+[![Audio-Technica](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Faudio-technica.com)](https://www.audio-technica.com/)
+[![LG](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Flg.com)](https://www.lg.com/tv)
+[![Dell](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fdell.com)](https://www.dell.com/)
 <br/>
 Mobile:
 [![OnePlus](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Foneplus.com)](https://www.oneplus.com/)
@@ -86,7 +86,7 @@ Mobile:
 <br/>
 Sport:
 [![F1](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fformula1.com)](https://www.formula1.com/)
-[![MLB](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fmlb.com)](https://www.formula1.com/)
+[![MLB](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fmlb.com)](https://www.mlb.com/)
 <br/>
 Pay:
 [![Paypal](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fpaypal.com)](https://www.paypal.me/jasonycw)
