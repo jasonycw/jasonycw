@@ -37,7 +37,7 @@ Play:
 <a href="https://www.nintendo.com/" title="Switch"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fnintendo.com"></a>
 <a href="https://www.origin.com/" title="Origin"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fwww.origin.com"></a>
 <a href="https://www.gog.com/" title="GOG"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fgog.com"></a>
-<a href="https://uplay.ubisoft.com/" title="Uplay"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fuplay.ubisoft.com"></a>
+<a href="https://store.ubi.com/" title="Uplay"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fuplay.ubisoft.com"></a>
 <a href="https://store.playstation.com/" title="Playstation"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fplaystation.com"></a>
 <br/>
 Listen:
