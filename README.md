@@ -45,8 +45,7 @@ Listen:
 <a href="https://open.spotify.com/" title="Spotify"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fspotify.com"></a>
 <a href="https://podcasts.google.com/" title="Google Podcasts"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fpodcasts.google.com"></a>
 <br/>
-Work:
-<a href="https://aws.amazon.com/" title="AWS"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Faws.amazon.com"></a>
+Tool:
 <a href="https://notepad-plus-plus.org/" title="Notepad++"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fnotepad-plus-plus.org"></a>
 <a href="https://www.sublimetext.com/" title="Sublime Text"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fsublimetext.com"></a>
 <a href="https://getgreenshot.org/" title="Greenshot"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fgetgreenshot.org"></a>
