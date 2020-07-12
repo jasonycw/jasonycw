@@ -1,17 +1,101 @@
-|   |   |
-|---|---:|
-| Use: [![Google](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fgoogle.com)](https://www.google.com/) [![Microsoft](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fmicrosoft.com)](https://www.microsoft.com/windows/) [![Android](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fandroid.com)](https://www.android.com/) <br/> Read: [![Feedly](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Ffeedly.com)](https://feedly.com/) [![Buffer](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fbuffer.com)](https://buffer.com/) [![IFTTT](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fifttt.com)](https://ifttt.com/) <br/> Social: [![Facebook](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Ffacebook.com)](https://www.facebook.com/?sk=h_chr) [![Twitter](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Ftwitter.com)](https://twitter.com/) [![Instagram](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Finstagram.com)](https://www.instagram.com/) [![LinkedIn](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Flinkedin.com)](https://www.linkedin.com/feed/) <br/> Communicate: [![Telegram](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Ftelegram.org)](https://web.telegram.org/) [![Whatsapp](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fwhatsapp.com)](https://www.whatsapp.com/) [![Signal](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fsignal.org)](https://signal.org/) [![Discord](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fdiscord.com)](https://discord.com/) [![Teams](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fteams.microsoft.com)](https://teams.microsoft.com/) [![Skype](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fskype.com)](https://www.skype.com/) <br/> Watch: [![Youtube](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fyoutube.com)](https://www.youtube.com/feed/subscriptions/) [![Netflix](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fnetflix.com)](https://www.netflix.com/) [![Twitch](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fwww.twitch.tv)](https://www.twitch.tv/directory/following) [![IMDb](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fimdb.com)](https://www.imdb.com/) <br/> Play: [![Steam](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fsteamcommunity.com)](http://store.steampowered.com/) [![Humble Bundle](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fhumblebundle.com)](https://www.humblebundle.com/) [![Switch](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fnintendo.com)](https://www.nintendo.com/switch/system/) [![Origin](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fwww.origin.com)](https://www.origin.com/) [![GOG](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fgog.com)](https://www.gog.com/) [![Uplay](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fuplay.ubisoft.com)](https://store.ubi.com/) [![Playstation](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fplaystation.com)](https://store.playstation.com/) <br/> Listen: [![Google Music](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fplay.google.com/music)](https://play.google.com/music/) [![Spotify](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fspotify.com)](https://open.spotify.com/) [![Google Podcasts](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fpodcasts.google.com)](https://podcasts.google.com/) <br/> Work: [![Notepad++](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fnotepad-plus-plus.org)](https://notepad-plus-plus.org/) [![Sublime Text](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fsublimetext.com)](https://www.sublimetext.com/) [![Greenshot](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fgetgreenshot.org)](https://getgreenshot.org/) [![Sublime Merge](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fsublimemerge.com)](https://www.sublimemerge.com/) [![VS Code](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fcode.visualstudio.com)](https://code.visualstudio.com/) [![mRemoteNG](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fmremoteng.org)](https://mremoteng.org/) [![TeamViewer](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fteamviewer.com)](https://www.teamviewer.com/) [![AWS](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Faws.amazon.com)](https://aws.amazon.com/) <br/> PC: [![Intel](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fintel.com)](https://www.intel.com/) [![Nvidia](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fnvidia.com)](https://www.nvidia.com/) [![Noctua](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fnoctua.at)](https://noctua.at/) [![Fractal Design](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Ffractal-design.com)](https://www.fractal-design.com/) [![ASUS](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fwww.asus.com)](https://www.asus.com/ROG-Republic-Of-Gamers/) [![Corsair](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fcorsair.com)](https://www.corsair.com/) [![Samsung](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fsamsung.com)](https://www.samsung.com/ssd/) [![WD](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fwww.westerndigital.com)](https://www.westerndigital.com/products/internal-drives) [![Kingston](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fkingston.com)](https://www.kingston.com/ssd) <br/> Accessories: [![LogitechG](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fwww.logitechg.com)](https://www.logitechg.com/products/gaming-mice.html) [![Ducky](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fduckychannel.com.tw)](https://www.duckychannel.com.tw/) [![Zowie](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fzowie.benq.com)](https://zowie.benq.com/) [![Audio-Technica](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Faudio-technica.com)](https://www.audio-technica.com/) [![LG](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Flg.com)](https://www.lg.com/tv) [![Dell](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fdell.com)](https://www.dell.com/) <br/> Mobile: [![OnePlus](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Foneplus.com)](https://www.oneplus.com/) [![Lenovo](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Flenovo.com)](https://www.lenovo.com/) [![Sony](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fsony.com)](https://www.sony.com/electronics/compact-cameras/) <br/> Sport: [![F1](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fformula1.com)](https://www.formula1.com/) [![MLB](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fmlb.com)](https://www.mlb.com/) <br/> Pay: [![Paypal](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fpaypal.com)](https://www.paypal.me/jasonycw)| [⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️<br/>⬜️⬛️⬜️⬛️⬛️⬛️⬛️⬜️<br/>⬜️⬜️⬜️⬛️⬜️⬜️⬛️⬜️<br/>⬜️⬛️⬜️⬛️⬜️⬜️⬛️⬜️<br/>⬜️⬛️⬜️⬛️⬜️⬜️⬛️⬜️<br/>⬜️⬛️⬜️⬛️⬛️⬛️⬛️⬜️<br/>⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️<br/>](https://jasonycw.github.io/secret/) |
-<!--
-**jasonycw/jasonycw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tbody>
+    <td>
+    	Use: 
+<a href="https://www.google.com/" title="Google"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fgoogle.com"></a>
+<a href="https://www.microsoft.com/" title="Microsoft"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fmicrosoft.com"></a>
+<a href="https://www.android.com/" title="Android"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fandroid.com"></a>
+<a href="https://ifttt.com/" title="IFTTT"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fifttt.com"></a>
+<br/>
+Read:
+<a href="https://feedly.com/" title="Feedly"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Ffeedly.com"></a>
+<a href="https://buffer.com/" title="Buffer"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fbuffer.com"></a>
+<br/>
+Social:
+<a href="https://www.facebook.com/?sk=h_chr" title="Facebook"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Ffacebook.com"></a>
+<a href="https://twitter.com/" title="Twitter"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Ftwitter.com"></a>
+<a href="https://www.instagram.com/" title="Instagram"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Finstagram.com"></a>
+<a href="https://www.linkedin.com/feed/" title="LinkedIn"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Flinkedin.com"></a>
+<br/>
+Communicate:
+<a href="https://web.telegram.org/" title="Telegram"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Ftelegram.org"></a>
+<a href="https://www.whatsapp.com/" title="Whatsapp"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fwhatsapp.com"></a>
+<a href="https://signal.org/" title="Signal"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fsignal.org"></a>
+<a href="https://discord.com/" title="Discord"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fdiscord.com"></a>
+<a href="https://teams.microsoft.com/" title="Teams"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fteams.microsoft.com"></a>
+<a href="https://www.skype.com/" title="Skype"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fskype.com"></a>
+<br/>
+Watch:
+<a href="https://www.youtube.com/feed/subscriptions/" title="Youtube"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fyoutube.com"></a>
+<a href="https://www.netflix.com/" title="Netflix"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fnetflix.com"></a>
+<a href="https://www.twitch.tv/directory/following" title="Twitch"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fwww.twitch.tv"></a>
+<a href="https://www.imdb.com/" title="IMDb"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fimdb.com"></a>
+<br/>
+Play:
+<a href="http://store.steampowered.com/" title="Steam"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fsteamcommunity.com"></a>
+<a href="https://www.humblebundle.com/" title="Humble Bundle"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fhumblebundle.com"></a>
+<a href="https://www.nintendo.com/" title="Switch"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fnintendo.com"></a>
+<a href="https://www.origin.com/" title="Origin"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fwww.origin.com"></a>
+<a href="https://www.gog.com/" title="GOG"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fgog.com"></a>
+<a href="https://uplay.ubisoft.com/" title="Uplay"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fuplay.ubisoft.com"></a>
+<a href="https://store.playstation.com/" title="Playstation"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fplaystation.com"></a>
+<br/>
+Listen:
+<a href="https://play.google.com/music/" title="Google Music"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fplay.google.com/music"></a>
+<a href="https://open.spotify.com/" title="Spotify"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fspotify.com"></a>
+<a href="https://podcasts.google.com/" title="Google Podcasts"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fpodcasts.google.com"></a>
+<br/>
+Work:
+<a href="https://aws.amazon.com/" title="AWS"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Faws.amazon.com"></a>
+<a href="https://notepad-plus-plus.org/" title="Notepad++"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fnotepad-plus-plus.org"></a>
+<a href="https://www.sublimetext.com/" title="Sublime Text"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fsublimetext.com"></a>
+<a href="https://getgreenshot.org/" title="Greenshot"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fgetgreenshot.org"></a>
+<a href="https://www.sublimemerge.com/" title="Sublime Merge"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fsublimemerge.com"></a>
+<a href="https://code.visualstudio.com/" title="VS Code"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fcode.visualstudio.com"></a>
+<a href="https://mremoteng.org/" title="mRemoteNG"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fmremoteng.org"></a>
+<a href="https://www.teamviewer.com/" title="TeamViewer"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fteamviewer.com"></a>
+<br/>
+PC:
+<a href="https://www.intel.com/" title="Intel"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fintel.com"></a>
+<a href="https://www.nvidia.com/" title="Nvidia"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fnvidia.com"></a>
+<a href="https://www.fractal-design.com/" title="Fractal Design"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Ffractal-design.com"></a>
+<a href="https://noctua.at/" title="Noctua"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fnoctua.at"></a>
+<a href="https://www.asus.com/ROG-Republic-Of-Gamers/" title="ASUS"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fwww.asus.com"></a>
+<a href="https://www.corsair.com/" title="Corsair"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fcorsair.com"></a>
+<a href="https://www.samsung.com/ssd/" title="Samsung"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fsamsung.com"></a>
+<a href="https://www.kingston.com/ssd" title="Kingston"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fkingston.com"></a>
+<a href="https://www.westerndigital.com/products/internal-drives" title="WD"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fwww.westerndigital.com"></a>
+<a href="https://www.lg.com/tv" title="LG"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Flg.com"></a>
+<a href="https://www.dell.com/" title="Dell"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fdell.com"></a>
+<br/>
+Accessories:
+<a href="https://www.audio-technica.com/" title="Audio-Technica"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Faudio-technica.com"></a>
+<a href="https://www.logitechg.com/" title="LogitechG"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fwww.logitechg.com"></a>
+<a href="https://www.duckychannel.com.tw/" title="Ducky"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fduckychannel.com.tw"></a>
+<a href="https://zowie.benq.com/" title="Zowie"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fzowie.benq.com"></a>
+<br/>
+Mobile:
+<a href="https://www.oneplus.com/" title="OnePlus"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Foneplus.com"></a>
+<a href="https://www.lenovo.com/" title="Lenovo"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Flenovo.com"></a>
+<a href="https://www.sony.com/electronics/compact-cameras/" title="Sony"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fsony.com"></a>
+<br/>
+Sport:
+<a href="https://www.formula1.com/" title="F1"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fformula1.com"></a>
+<a href="https://www.formula1.com/" title="MLB"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fmlb.com"></a>
+<br/>
+Pay:
+<a href="https://www.paypal.me/jasonycw" title="Paypal"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fpaypal.com"></a>
+    </td>
+    <td>
+      <a href="https://jasonycw.github.io/secret/">
+      	⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️<br/>
+      	⬜️⬛️⬜️⬛️⬛️⬛️⬛️⬜️<br/>
+      	⬜️⬜️⬜️⬛️⬜️⬜️⬛️⬜️<br/>
+      	⬜️⬛️⬜️⬛️⬜️⬜️⬛️⬜️<br/>
+      	⬜️⬛️⬜️⬛️⬜️⬜️⬛️⬜️<br/>
+      	⬜️⬛️⬜️⬛️⬛️⬛️⬛️⬜️<br/>
+      	⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️<br/>
+      </a>
+    </td>
+  </tbody>
+</table>
