@@ -17,7 +17,7 @@ Social:
 <a href="https://www.instagram.com/" title="Instagram"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Finstagram.com"></a>
 <a href="https://www.linkedin.com/feed/" title="LinkedIn"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Flinkedin.com"></a>
 <br/>
-Communicate:
+Chat:
 <a href="https://web.telegram.org/" title="Telegram"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Ftelegram.org"></a>
 <a href="https://www.whatsapp.com/" title="Whatsapp"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fwhatsapp.com"></a>
 <a href="https://signal.org/" title="Signal"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fsignal.org"></a>
@@ -56,28 +56,28 @@ Work:
 <a href="https://www.teamviewer.com/" title="TeamViewer"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fteamviewer.com"></a>
 <br/>
 PC:
-<a href="https://www.intel.com/" title="Intel"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fintel.com"></a>
-<a href="https://www.nvidia.com/" title="Nvidia"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fnvidia.com"></a>
-<a href="https://www.fractal-design.com/" title="Fractal Design"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Ffractal-design.com"></a>
-<a href="https://noctua.at/" title="Noctua"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fnoctua.at"></a>
-<a href="https://www.asus.com/ROG-Republic-Of-Gamers/" title="ASUS"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fwww.asus.com"></a>
-<a href="https://www.corsair.com/" title="Corsair"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fcorsair.com"></a>
-<a href="https://www.samsung.com/ssd/" title="Samsung"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fsamsung.com"></a>
-<a href="https://www.kingston.com/ssd" title="Kingston"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fkingston.com"></a>
-<a href="https://www.westerndigital.com/products/internal-drives" title="WD"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fwww.westerndigital.com"></a>
-<a href="https://www.lg.com/tv" title="LG"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Flg.com"></a>
-<a href="https://www.dell.com/" title="Dell"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fdell.com"></a>
+<a href="https://www.intel.com/" title="Intel CPU"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fintel.com"></a>
+<a href="https://www.nvidia.com/" title="Nvidia GPU"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fnvidia.com"></a>
+<a href="https://www.fractal-design.com/" title="Fractal Design case"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Ffractal-design.com"></a>
+<a href="https://noctua.at/" title="Noctua cooler"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fnoctua.at"></a>
+<a href="https://www.asus.com/ROG-Republic-Of-Gamers/" title="ASUS ROG Motherboard"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fwww.asus.com"></a>
+<a href="https://www.corsair.com/" title="Corsair RAM"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fcorsair.com"></a>
+<a href="https://www.samsung.com/ssd/" title="Samsung SSD"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fsamsung.com"></a>
+<a href="https://www.kingston.com/ssd" title="Kingston SSD"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fkingston.com"></a>
+<a href="https://www.westerndigital.com/products/internal-drives" title="WD HDD"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fwww.westerndigital.com"></a>
 <br/>
 Accessories:
 <a href="https://www.audio-technica.com/" title="Audio-Technica"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Faudio-technica.com"></a>
-<a href="https://www.logitechg.com/" title="LogitechG"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fwww.logitechg.com"></a>
-<a href="https://www.duckychannel.com.tw/" title="Ducky"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fduckychannel.com.tw"></a>
-<a href="https://zowie.benq.com/" title="Zowie"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fzowie.benq.com"></a>
+<a href="https://www.dell.com/" title="Dell monitor"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fdell.com"></a>
+<a href="https://www.lg.com/tv" title="LG TV"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Flg.com"></a>
+<a href="https://www.logitechg.com/" title="LogitechG mouse"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fwww.logitechg.com"></a>
+<a href="https://www.duckychannel.com.tw/" title="Ducky mechanical keyboard"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fduckychannel.com.tw"></a>
+<a href="https://zowie.benq.com/" title="Zowie mouse"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fzowie.benq.com"></a>
 <br/>
 Mobile:
 <a href="https://www.oneplus.com/" title="OnePlus"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Foneplus.com"></a>
-<a href="https://www.lenovo.com/" title="Lenovo"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Flenovo.com"></a>
-<a href="https://www.sony.com/electronics/compact-cameras/" title="Sony"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fsony.com"></a>
+<a href="https://www.lenovo.com/" title="Lenovo laptop"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Flenovo.com"></a>
+<a href="https://www.sony.com/electronics/compact-cameras/" title="Sony camera"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fsony.com"></a>
 <br/>
 Sport:
 <a href="https://www.formula1.com/" title="F1"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fformula1.com"></a>
