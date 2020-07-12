@@ -39,10 +39,10 @@ Watch:
 Play:
 [![Steam](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fsteamcommunity.com)](http://store.steampowered.com/)
 [![Humble Bundle](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fhumblebundle.com)](https://www.humblebundle.com/)
-[![Switch](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fnintendo.com)](https://www.nintendo.com/)
+[![Switch](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fnintendo.com)](https://www.nintendo.com/switch/system/)
 [![Origin](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fwww.origin.com)](https://www.origin.com/)
 [![GOG](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fgog.com)](https://www.gog.com/)
-[![Uplay](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fuplay.ubisoft.com)](https://uplay.ubisoft.com/)
+[![Uplay](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fuplay.ubisoft.com)](https://store.ubi.com/)
 [![Playstation](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fplaystation.com)](https://store.playstation.com/)
 <br/>
 Listen:
@@ -51,7 +51,6 @@ Listen:
 [![Google Podcasts](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fpodcasts.google.com)](https://podcasts.google.com/)
 <br/>
 Work:
-[![AWS](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Faws.amazon.com)](https://aws.amazon.com/)
 [![Notepad++](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fnotepad-plus-plus.org)](https://notepad-plus-plus.org/)
 [![Sublime Text](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fsublimetext.com)](https://www.sublimetext.com/)
 [![Greenshot](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fgetgreenshot.org)](https://getgreenshot.org/)
@@ -59,6 +58,7 @@ Work:
 [![VS Code](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fcode.visualstudio.com)](https://code.visualstudio.com/)
 [![mRemoteNG](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fmremoteng.org)](https://mremoteng.org/)
 [![TeamViewer](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fteamviewer.com)](https://www.teamviewer.com/)
+[![AWS](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Faws.amazon.com)](https://aws.amazon.com/)
 <br/>
 PC:
 [![Intel](https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fintel.com)](https://www.intel.com/)
