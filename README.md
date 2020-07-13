@@ -2,9 +2,9 @@
   <tbody>
     <td>
 Use:
-<a href="https://www.google.com/" title="Google"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fgoogle.com"></a>
-<a href="https://www.microsoft.com/" title="Microsoft"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fmicrosoft.com"></a>
-<a href="https://www.android.com/" title="Android"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fandroid.com"></a>
+<a href="https://google.com/" title="Google"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fgoogle.com"></a>
+<a href="https://microsoft.com/" title="Microsoft"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fmicrosoft.com"></a>
+<a href="https://android.com/" title="Android"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fandroid.com"></a>
 <a href="https://ifttt.com/" title="IFTTT"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fifttt.com"></a>
 <br/>
 Read:
@@ -12,10 +12,10 @@ Read:
 <a href="https://buffer.com/" title="Buffer"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fbuffer.com"></a>
 <br/>
 Social:
-<a href="https://www.facebook.com/?sk=h_chr" title="Facebook"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Ffacebook.com"></a>
+<a href="https://facebook.com/?sk=h_chr" title="Facebook"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Ffacebook.com"></a>
 <a href="https://twitter.com/" title="Twitter"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Ftwitter.com"></a>
-<a href="https://www.instagram.com/" title="Instagram"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Finstagram.com"></a>
-<a href="https://www.linkedin.com/feed/" title="LinkedIn"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Flinkedin.com"></a>
+<a href="https://instagram.com/" title="Instagram"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Finstagram.com"></a>
+<a href="https://linkedin.com/" title="LinkedIn"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Flinkedin.com"></a>
 <br/>
 Chat:
 <a href="https://web.telegram.org/" title="Telegram"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Ftelegram.org"></a>
@@ -26,17 +26,18 @@ Chat:
 <a href="https://www.skype.com/" title="Skype"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fskype.com"></a>
 <br/>
 Watch:
-<a href="https://www.youtube.com/feed/subscriptions/" title="Youtube"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fyoutube.com"></a>
-<a href="https://www.netflix.com/" title="Netflix"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fnetflix.com"></a>
-<a href="https://www.twitch.tv/directory/following" title="Twitch"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fwww.twitch.tv"></a>
-<a href="https://www.imdb.com/" title="IMDb"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fimdb.com"></a>
+<a href="https://youtu.be/" title="YouTube"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fyoutube.com"></a>
+<a href="https://netflix.com/" title="Netflix"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fnetflix.com"></a>
+<a href="https://twitch.tv/" title="Twitch"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fwww.twitch.tv"></a>
+<a href="https://imdb.com/" title="IMDb"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fimdb.com"></a>
 <br/>
 Play:
-<a href="http://store.steampowered.com/" title="Steam"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fsteamcommunity.com"></a>
-<a href="https://www.humblebundle.com/" title="Humble Bundle"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fhumblebundle.com"></a>
-<a href="https://www.nintendo.com/" title="Switch"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fnintendo.com"></a>
-<a href="https://www.origin.com/" title="Origin"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fwww.origin.com"></a>
-<a href="https://www.gog.com/" title="GOG"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fgog.com"></a>
+<a href="https://store.steampowered.com/" title="Steam"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fsteamcommunity.com"></a>
+<a href="https://humblebundle.com/" title="Humble Bundle"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fhumblebundle.com"></a>
+<a href="https://nintendo.com/switch/" title="Nintendo Switch"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fnintendo.com"></a>
+<a href="https://origin.com/" title="Origin"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fwww.origin.com"></a>
+<a href="https://gog.com/" title="GOG"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fgog.com"></a>
+<a href="https://battle.net/" title="Battle.net"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=battle.net"></a>
 <a href="https://store.ubi.com/" title="Uplay"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fuplay.ubisoft.com"></a>
 <a href="https://store.playstation.com/" title="Playstation"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fplaystation.com"></a>
 <br/>
@@ -79,11 +80,11 @@ Mobile:
 <a href="https://www.sony.com/electronics/compact-cameras/" title="Sony camera"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fsony.com"></a>
 <br/>
 Sport:
-<a href="https://www.formula1.com/" title="F1"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fformula1.com"></a>
-<a href="https://www.formula1.com/" title="MLB"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fmlb.com"></a>
+<a href="https://formula1.com/" title="F1"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fformula1.com"></a>
+<a href="https://mlb.com/" title="MLB"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fmlb.com"></a>
 <br/>
 Pay:
-<a href="https://www.paypal.me/jasonycw" title="Paypal"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fpaypal.com"></a>
+<a href="https://paypal.me/jasonycw" title="Paypal"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fpaypal.com"></a>
     </td>
     <td>
       <a href="https://jasonycw.github.io/secret/" title="jasonycw.github.io" style="opacity: 0; transition: 0.3s" onMouseOver="style.opacity=1" onMouseOut="style.opacity=0">
