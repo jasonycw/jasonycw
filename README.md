@@ -5,11 +5,11 @@ Use:
 <a href="https://google.com/" title="Google"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fgoogle.com"></a>
 <a href="https://microsoft.com/" title="Microsoft"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fmicrosoft.com"></a>
 <a href="https://android.com/" title="Android"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fandroid.com"></a>
-<a href="https://ifttt.com/" title="IFTTT"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fifttt.com"></a>
 <br/>
 Read:
 <a href="https://feedly.com/" title="Feedly"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Ffeedly.com"></a>
 <a href="https://buffer.com/" title="Buffer"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fbuffer.com"></a>
+<a href="https://ifttt.com/" title="IFTTT"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fifttt.com"></a>
 <br/>
 Social:
 <a href="https://facebook.com/?sk=h_chr" title="Facebook"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Ffacebook.com"></a>
