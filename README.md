@@ -43,7 +43,7 @@ Play:
 <br/>
 Listen:
 <a href="https://play.google.com/music/" title="Google Music"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fplay.google.com/music"></a>
-<a href="https://open.spotify.com/" title="Spotify"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fspotify.com"></a>
+<a href="https://open.spotify.com/" title="Spotify"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fopen.spotify.com"></a>
 <a href="https://podcasts.google.com/" title="Google Podcasts"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fpodcasts.google.com"></a>
 <br/>
 Tool:
