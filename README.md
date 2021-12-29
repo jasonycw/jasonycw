@@ -2,7 +2,7 @@
   <tbody>
     <td>
 Use:
-<a href="https://google.com/" title="Google"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fgoogle.com"></a>
+<a href="https://google.com/" title="Google"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=google.com"></a>
 <a href="https://microsoft.com/" title="Microsoft"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fmicrosoft.com"></a>
 <a href="https://android.com/" title="Android"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fandroid.com"></a>
 <br/>
