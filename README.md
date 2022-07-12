@@ -1,3 +1,5 @@
+[![Github](https://img.shields.io/github/followers/jasonycw?label=Follow&style=social)](https://github.com/jasonycw?tab=followers)
+
 <table>
   <tbody>
     <td>
@@ -95,6 +97,11 @@ Pay:
       	⬜️⬛️⬜️⬛️⬜️⬜️⬛️⬜️<br/>
       	⬜️⬛️⬜️⬛️⬛️⬛️⬛️⬜️<br/>
       	⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️<br/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/jasonycw">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=jasonycw&theme=graywhite&show_icons=false&count_private=true&&include_all_commits=true&line_height=20&layout=compact" />
       </a>
     </td>
   </tbody>
