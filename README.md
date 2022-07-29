@@ -62,7 +62,7 @@ PC:
 <a href="https://www.nvidia.com/" title="Nvidia GPU"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fnvidia.com"></a>
 <a href="https://www.fractal-design.com/" title="Fractal Design case"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Ffractal-design.com"></a>
 <a href="https://noctua.at/" title="Noctua cooler"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fnoctua.at"></a>
-<a href="https://www.asus.com/ROG-Republic-Of-Gamers/" title="ASUS ROG Motherboard"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fwww.asus.com"></a>
+<a href="https://rog.asus.com/" title="ASUS ROG Motherboard"><img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://rog.asus.com&size=16"></a>
 <a href="https://www.corsair.com/" title="Corsair RAM"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fcorsair.com"></a>
 <a href="https://www.samsung.com/ssd/" title="Samsung SSD"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fsamsung.com"></a>
 <a href="https://www.kingston.com/ssd" title="Kingston SSD"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fkingston.com"></a>
@@ -70,6 +70,7 @@ PC:
 <br/>
 Accessories:
 <a href="https://www.audio-technica.com/" title="Audio-Technica"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Faudio-technica.com"></a>
+<a href="https://www.asus.com/" title="ASUS monitor"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fwww.asus.com"></a>
 <a href="https://www.dell.com/" title="Dell monitor"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fdell.com"></a>
 <a href="https://www.lg.com/tv" title="LG TV"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Flg.com"></a>
 <a href="https://www.logitechg.com/" title="LogitechG mouse"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fwww.logitechg.com"></a>
