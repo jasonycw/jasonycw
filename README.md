@@ -97,7 +97,11 @@ Pay:
   </tbody>
 </table>
 
-![snake gif](https://github.com/jasonycw/jasonycw/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jasonycw/jasonycw/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jasonycw/jasonycw/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jasonycw/jasonycw/output/github-contribution-grid-snake.svg">
+</picture>
 
 <a href="https://jasonycw.github.io/secret/" title="jasonycw.github.io" style="opacity: 0; transition: 0.3s" onMouseOver="style.opacity=1" onMouseOut="style.opacity=0">
       	⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️<br/>
