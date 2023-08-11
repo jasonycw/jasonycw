@@ -91,7 +91,7 @@ Pay:
     </td>
     <td>
       <a href="https://github.com/jasonycw">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=jasonycw&theme=graywhite&show_icons=false&count_private=true&&include_all_commits=true&line_height=20&layout=compact" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=jasonycw&theme=graywhite&show_icons=false&count_private=true&&include_all_commits=true&line_height=20&layout=compact&rank_icon=percentile&number_format=long&show=reviews,discussions_started,discussions_answered" />
       </a>
     </td>
   </tbody>
