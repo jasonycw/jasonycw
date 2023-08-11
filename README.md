@@ -15,12 +15,16 @@ Read:
 <br/>
 Social:
 <a href="https://facebook.com/?sk=h_chr" title="Facebook"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Ffacebook.com"></a>
+<a href="https://threads.net/" title="Threads"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fthreads.net"></a>
 <a href="https://twitter.com/" title="Twitter"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Ftwitter.com"></a>
 <a href="https://instagram.com/" title="Instagram"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Finstagram.com"></a>
+<a href="https://mastodo.social/" title="Instagram"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fmastodon.social"></a>
+<a href="https://bsky.app/" title="Instagram"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fbsky.app"></a>
+<a href="https://t2.social/" title="Instagram"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Ft2.social"></a>
 <a href="https://linkedin.com/" title="LinkedIn"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Flinkedin.com"></a>
 <br/>
 Chat:
-<a href="https://web.telegram.org/" title="Telegram"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Ftelegram.org"></a>
+<a href="https://web.telegram.org/" title="Telegram"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fweb.telegram.org"></a>
 <a href="https://www.whatsapp.com/" title="Whatsapp"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fwhatsapp.com"></a>
 <a href="https://signal.org/" title="Signal"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fsignal.org"></a>
 <a href="https://discord.com/" title="Discord"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fdiscord.com"></a>
@@ -78,9 +82,8 @@ Accessories:
 <a href="https://zowie.benq.com/" title="Zowie mouse"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fzowie.benq.com"></a>
 <br/>
 Mobile:
-<a href="https://www.oneplus.com/" title="OnePlus"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Foneplus.com"></a>
+<a href="https://www.sony.com/"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fsony.com"></a>
 <a href="https://www.lenovo.com/" title="Lenovo laptop"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Flenovo.com"></a>
-<a href="https://www.sony.com/electronics/compact-cameras/" title="Sony camera"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fsony.com"></a>
 <br/>
 Sport:
 <a href="https://formula1.com/" title="F1"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fformula1.com"></a>
