@@ -18,7 +18,7 @@ Social:
 <a href="https://threads.net/" title="Threads"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fthreads.net"></a>
 <a href="https://twitter.com/" title="Twitter"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Ftwitter.com"></a>
 <a href="https://instagram.com/" title="Instagram"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Finstagram.com"></a>
-<a href="https://mastodo.social/" title="Instagram"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fmastodon.social"></a>
+<a href="https://mastodon.social/" title="Instagram"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fmastodon.social"></a>
 <a href="https://bsky.app/" title="Instagram"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Fbsky.app"></a>
 <a href="https://t2.social/" title="Instagram"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Ft2.social"></a>
 <a href="https://linkedin.com/" title="LinkedIn"><img src="https://s2.googleusercontent.com/s2/favicons?domain_url=https%3A%2F%2Flinkedin.com"></a>
