@@ -1,4 +1,4 @@
- [![Github](https://img.shields.io/github/followers/jasonycw?label=Follow&style=social)](https://github.com/jasonycw?tab=followers) [🔦](https://jasonycw.github.io/screen-tests/HDR/white/)
+[![Github](https://img.shields.io/github/followers/jasonycw?label=Follow&style=social)](https://github.com/jasonycw?tab=followers) [🔦](https://jasonycw.github.io/screen-tests/HDR/white/)
 
 <table>
   <tbody>
@@ -93,7 +93,7 @@ Pay:
     </td>
     <td>
       <a href="https://github.com/jasonycw">
-        <img align="center" src="https://github.com/user-attachments/assets/67846dae-a8ff-4477-8fad-8032bc2dbfe6" />
+        <img align="center" src="https://github.com/user-attachments/assets/348bfc9c-708d-4ec6-8c76-8756c22a5119" />
       </a>
     </td>
   </tbody>
