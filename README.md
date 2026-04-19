@@ -1,4 +1,4 @@
-[![Github](https://img.shields.io/github/followers/jasonycw?label=Follow&style=social)](https://github.com/jasonycw?tab=followers) <a href="https://jasonycw.github.io/screen-tests/HDR/white/" title="🔦" alt="🔦"><img height="20" width="64" src="https://github.com/user-attachments/assets/348bfc9c-708d-4ec6-8c76-8756c22a5119" /></a>
+[![Github](https://img.shields.io/github/followers/jasonycw?label=Follow&style=social)](https://github.com/jasonycw?tab=followers) <a href="https://jasonycw.github.io/screen-tests/HDR/white/" title="🔦" alt="🔦"><img height="2" width="100%" src="https://github.com/user-attachments/assets/348bfc9c-708d-4ec6-8c76-8756c22a5119" /></a>
 
 <table>
   <tbody>
